@@ -1,0 +1,57 @@
+
+.Menu {
+    list-style: none;
+    font-family: fantasy;
+    color: cyan;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-top: 1px;
+}
+
+.MEnu 2 {
+    float: left;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#fill1 {
+	width: 900px;
+    height: 100px;
+}
+#fill2 {
+	width: 900px;
+    height: 100px;
+}
+#fill3 {
+	width: 900px;
+    height: 100px;
+}
+#fill4 {
+	width: 900px;
+    height: 100px;
+}
+#Boosterthon {
+	width: 250px;
+    height: 250px;
+}
+#front{
+width: 204px;
+    height: 204px;	
+}
+#gym{
+width: 204px;
+    height: 204px;	
+}
+#school {
+	height: 200;
+	width: 400 ;
+}
+.announcement{
+	font-size: 18px;
+	font-weight: bold;
+	background-color: aqua;
+	height: 20px;
+}
+#myNavBar{
+	height: 100px;
+	background-color: azure;
+}
